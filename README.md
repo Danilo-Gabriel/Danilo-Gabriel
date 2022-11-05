@@ -2,7 +2,7 @@
 
 - 👮‍♂️ Hoje trabalho como analista de TI 
 - 👨‍🎓 Graduando em sistemas de informação IFG-GO
-- 📚 Estudante de Full Stack (HTML, CSS, JavaScrip, ReacJS, Java)
+- 📚 Estudante de Full Stack (HTML, CSS, JavaScrip, ReacJS, Java, MySql)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
