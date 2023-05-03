@@ -1,6 +1,6 @@
 ## <b>Olá, Bem-vindo ao meu Github</b> 👋
 
-- 👮‍♂️ Hoje trabalho como Estagiário de Programação no Centro de Desenvolvimento de Sistemas - EB 
+- 👮‍♂️ Hoje trabalho como Analista de Testes QA no Centro de Desenvolvimento de Sistemas - EB 
 - 👨‍🎓 Graduando em sistemas de informação IFG-GO
 - 📚 Estudante backend (Java, SpringBoot)
 - SKILLS (Linux, Docker, Git, Scrum)
