@@ -1,10 +1,13 @@
-## <b>Olá, Bem-vindo ao meu Github</b> 👋
+## <b>Github</b> 
 
-- 👮‍♂️ Hoje trabalho como Analista de Testes QA no Centro de Desenvolvimento de Sistemas - EB 
-- 👨‍🎓 Graduando em sistemas de informação IFG-GO
-- 📚 Estudante backend (Java, SpringBoot)
-- SKILLS (Linux, Docker, Git, Scrum)
+Graduando em sistemas de informação IFG-GO
+  <!--
+  📚 Estudante backend (Java, SpringBoot) 👋
+  SKILLS (Linux, Docker, Git, Scrum)
+  -->
+  
 
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
    <img align="center" alt="Danilo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -15,6 +18,7 @@
   <img align="center" alt="Danilo-JS" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
 
 </div>
+-->
 
 ##
 
